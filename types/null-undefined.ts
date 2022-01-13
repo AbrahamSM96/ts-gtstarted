@@ -1,5 +1,5 @@
 (() => {
   // strictNullChecks
-  let isActive: boolean = null;
+  let isActive: null = null;
   console.log(isActive);
 })();
